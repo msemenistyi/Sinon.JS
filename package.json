@@ -18,8 +18,7 @@
         }
     ],
     "scripts": {
-        "test": "node test/node/run.js",
-        "prepublish": "./build"
+        "test": "node test/node/run.js"
     },
     "dependencies": {
         "formatio": "~1.0"
